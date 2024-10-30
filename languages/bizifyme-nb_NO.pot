@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bizify.me\n"
+"POT-Creation-Date: 2016-03-31 12:18+0100\n"
+"PO-Revision-Date: 2016-03-31 12:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: Norwegian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../bizifyme-ui.php:10
+msgid ""
+"This option should only be used if this blog is a secondary WordPress blog "
+"that should automatically import content from your primary WordPress blog."
+msgstr ""
+"Dette alternativet bør bare brukes hvis denne bloggen er en sekundær "
+"WordPress blogg for å være automatisk importere innhold fra din primære "
+"WordPress blog."
+
+#: ../bizifyme-ui.php:21
+msgid ""
+"Are you sure you want to import all previously uploaded objects? If you have "
+"uploaded many objects to your Bizify.me account this can result in a large "
+"number of new blog posts."
+msgstr ""
+"Er du sikker du vil importere alle tidligere opplastede objekter? Hvis du "
+"har lastet opp mange objekter på kontoen Bizify.me, kan det resultere i et "
+"stort antall nye blogginnlegg."
+
+#: ../bizifyme-ui.php:41
+msgid ""
+"Automatically import objects from your Bizify.me account to your WordPress "
+"blog every 15 minutes."
+msgstr ""
+"Importer objekter fra din Bizify.me konto din til din WordPress blogg hvert "
+"15 minutt."
+
+#: ../bizifyme-ui.php:45 ../bizifyme-ui.php:48
+msgid "Auto import objects"
+msgstr "Importer objekt automatisk"
+
+#: ../bizifyme-ui.php:49 ../bizifyme-ui.php:121 ../bizifyme-ui.php:130
+msgid "Yes"
+msgstr "Ja"
+
+#: ../bizifyme-ui.php:51 ../bizifyme-ui.php:123 ../bizifyme-ui.php:132
+msgid "No"
+msgstr "Nei"
+
+#: ../bizifyme-ui.php:54 ../bizifyme-ui.php:57
+msgid "Uploaded from which devices"
+msgstr "Lastet opp fra hvilke enheter"
+
+#: ../bizifyme-ui.php:58
+msgid "The Bizfy.me app"
+msgstr "Bizify.me app"
+
+#: ../bizifyme-ui.php:60
+msgid "The Bizify.me app and your computer"
+msgstr "Bizify.me app og datamaskinen"
+
+#: ../bizifyme-ui.php:62
+msgid "The Bizify.me app, your computer and other WordPress blogs"
+msgstr "Bizify.me app, datamaskinen og andre WordPress blogger"
+
+#: ../bizifyme-ui.php:68 ../bizifyme-ui.php:69
+msgid "Import all previously uploaded objects"
+msgstr "Importer alle tidligere opplastede objekter"
+
+#: ../bizifyme-ui.php:72
+msgid "Bizify.me account ID"
+msgstr "Bizify.me konto-ID"
+
+#: ../bizifyme-ui.php:75
+msgid "What is my account ID?"
+msgstr "Hva er min konto-ID?"
+
+#: ../bizifyme-ui.php:76 ../bizifyme.php:287
+msgid ""
+"You can find your account ID by <A HREF=\"https://bizify.me/login/\" TARGET="
+"\"_blank\">login in to your Bizify.me account</A> and then go to "
+"<EM>Settings</EM> and click on <EM>Automatic publishing</EM>."
+msgstr ""
+"Du kan finne din konto-ID ved <A HREF=\"https://bizify.me/login/\" TARGET="
+"\"_blank\">pålogging i kontoen din i Bizify.me</A> og deretter gå til "
+"<EM>Innstillinger</EM> og klikk <EM>Automatisk publisering</EM>."
+
+#: ../bizifyme-ui.php:78
+msgid "Post status"
+msgstr "Post status"
+
+#: ../bizifyme-ui.php:93
+msgid "Category"
+msgstr "Kategori"
+
+#: ../bizifyme-ui.php:105
+msgid "Author"
+msgstr "Forfatter"
+
+#: ../bizifyme-ui.php:117 ../bizifyme-ui.php:120
+msgid "Allow comments"
+msgstr "Tillat kommentarer"
+
+#: ../bizifyme-ui.php:126 ../bizifyme-ui.php:129
+msgid "Allow trackbacks and pingbacks"
+msgstr "Tillat trackbacks og pingbacks"
+
+#: ../bizifyme-ui.php:137
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#: ../bizifyme.php:185 ../bizifyme.php:189
+msgid "Sell your digital products using Bizify.me"
+msgstr "Selg digitale produkter med Bizify.me"
+
+#: ../bizifyme.php:185
+msgid "Sell Media / Product"
+msgstr "Selge media / produkt"
+
+#: ../bizifyme.php:224
+msgid "Getting started"
+msgstr "Komme i gang"
+
+#: ../bizifyme.php:225
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: ../bizifyme.php:230
+msgid "Every 15 Minutes"
+msgstr "Hvert 15 minutt"
+
+#: ../bizifyme.php:238
+msgid "Getting started with Bizify.me"
+msgstr "Komme i gang med Bizify.me"
+
+#: ../bizifyme.php:248
+msgid "You do not have sufficient permission to access this page."
+msgstr "Du har ikke tilstrekkelige tillatelser til denne siden."
+
+#: ../bizifyme.php:279
+msgid "Settings saved."
+msgstr "Innstillinger er lagret."
+
+#: ../bizifyme.php:287
+msgid "Your Bizify.me account ID is missing."
+msgstr "Din Bizify.me konto-ID mangler."
+
+#~ msgid "Only from my Android / iPhone / iPad"
+#~ msgstr "Bare fra min Android / iPhone / iPad"
+
+#~ msgid "My computer and my Android / iPhone / iPad"
+#~ msgstr "Min datamaskin og min Android / iPhone / iPad"
+
+#~ msgid ""
+#~ "Import objects automatically from your account at Bizify.me and publish "
+#~ "them on your WordPress blog."
+#~ msgstr ""
+#~ "Importera objekt automatiskt från ditt konto på Bizify.me och publicera "
+#~ "dem på din WordPress-blogg."
+
+#~ msgid "The import takes place every 15 minutes."
+#~ msgstr "Importering sker var 15:e minut."
+
+#~ msgid "Bizify.me settings"
+#~ msgstr "Inställningar Bizify.me"
+
+#~ msgid "Selection of objects"
+#~ msgstr "Urval av objekt"
+
+#~ msgid "Import only new objects"
+#~ msgstr "Importera enbart nya objekt"
+
+#~ msgid "Import all available objects"
+#~ msgstr "Importera alla tillgängliga objekt"
+
+#~ msgid "Disable automatic import"
+#~ msgstr "Avaktivera automatisk importering"
+
+#~ msgid ""
+#~ "Your Bizify.me account ID is missing. You can find your Bizify.me account "
+#~ "ID by <A HREF=\"https://bizify.me/login/\" TARGET=\"_blank\">login in to "
+#~ "your Bizify.me account</A> and then go to <EM>Settings</EM> and click on "
+#~ "<EM>Automatic publishing</EM>."
+#~ msgstr ""
+#~ "Ditt Bizify.me konto-ID saknas. Du kan hitta ditt Bizify.me konto-ID "
+#~ "genom att <A HREF=\"https://bizify.me/login/\" TARGET=\"_blank\">logga in "
+#~ "på ditt Bizify.me konto</A> och sedan gå in på <EM>Inställningar</EM> och "
+#~ "klicka på <EM>Automatisk publicering</EM>."
+
+#~ msgid "Disable importing objects"
+#~ msgstr "Avaktivera importering av objekt"
+
+#~ msgid "Import no objects"
+#~ msgstr "Importera inga objekt"
+
+#~ msgid "Import new and old objects"
+#~ msgstr "Importera nya och äldre objekt"
+
+#~ msgid "Import everything"
+#~ msgstr "Importera alla objekt"
+
+#~ msgid "Import nothing"
+#~ msgstr "Importera inga objekt"

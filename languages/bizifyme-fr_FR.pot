@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bizify.me\n"
+"POT-Creation-Date: 2015-03-11 13:37+0100\n"
+"PO-Revision-Date: 2015-03-11 14:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../bizifyme-ui.php:15
+msgid ""
+"Are you sure you want to import all previously uploaded objects? If you have "
+"uploaded many objects to your Bizify.me account this can result in a large "
+"number of new blog posts."
+msgstr ""
+"Êtes-vous certain de vouloir importer tous les objets précédemment "
+"téléchargés ? Si vous avez téléchargé de nombreux objets sur votre compte "
+"Bizify.me cela peut déclencher beaucoup de nouveaux posts."
+
+#: ../bizifyme-ui.php:34
+msgid ""
+"Automatically import objects from your Bizify.me account to your WordPress "
+"blog every 15 minutes."
+msgstr ""
+"Importer automatiquement les objets de votre compte Bizify.me dans votre "
+"blog WordPress toutes les 15 min."
+
+#: ../bizifyme-ui.php:38 ../bizifyme-ui.php:41
+msgid "Auto import objects"
+msgstr "Objets auto importés"
+
+#: ../bizifyme-ui.php:42 ../bizifyme-ui.php:112 ../bizifyme-ui.php:121
+msgid "Yes"
+msgstr "Oui"
+
+#: ../bizifyme-ui.php:44 ../bizifyme-ui.php:114 ../bizifyme-ui.php:123
+msgid "No"
+msgstr "Aucun"
+
+#: ../bizifyme-ui.php:47 ../bizifyme-ui.php:50
+msgid "Uploaded from which devices"
+msgstr "Téléchargées depuis quels appareils"
+
+#: ../bizifyme-ui.php:51
+msgid "Only from my Android / iPhone / iPad"
+msgstr "Seulement depuis mon Android / iPhone / iPad"
+
+#: ../bizifyme-ui.php:53
+msgid "My computer and my Android / iPhone / iPad"
+msgstr "Mon ordinateur et mon Android / iPhone / iPad"
+
+#: ../bizifyme-ui.php:59 ../bizifyme-ui.php:60
+msgid "Import all previously uploaded objects"
+msgstr "Importer tous les objets précédemment téléchargés"
+
+#: ../bizifyme-ui.php:63
+msgid "Bizify.me account ID"
+msgstr "Nom d'utilisateur Bizify.me"
+
+#: ../bizifyme-ui.php:66
+msgid "What is my account ID?"
+msgstr "Quel est mon identifiant?"
+
+#: ../bizifyme-ui.php:67 ../bizifyme.php:275
+msgid ""
+"You can find your account ID by <A HREF=\"https://bizify.me/login/\" TARGET="
+"\"_blank\">login in to your Bizify.me account</A> and then go to "
+"<EM>Settings</EM> and click on <EM>Automatic publishing</EM>."
+msgstr ""
+"Vous trouverez votre identifiant en <A HREF=\"https://bizify.me/login/\" "
+"TARGET=\"_blank\">vous connectant sur votre compte Bizify.me</A> puis allez "
+"<EM>à Paramètres</EM> et cliquez sur <EM>Publication automatique</EM>."
+
+#: ../bizifyme-ui.php:69
+msgid "Post status"
+msgstr "Statut des posts"
+
+#: ../bizifyme-ui.php:84
+msgid "Category"
+msgstr "Catégorie"
+
+#: ../bizifyme-ui.php:96
+msgid "Author"
+msgstr "Auteur"
+
+#: ../bizifyme-ui.php:108 ../bizifyme-ui.php:111
+msgid "Allow comments"
+msgstr "Autoriser les commentaires"
+
+#: ../bizifyme-ui.php:117 ../bizifyme-ui.php:120
+msgid "Allow trackbacks and pingbacks"
+msgstr "Autoriser les trackbacks et pingback"
+
+#: ../bizifyme-ui.php:128
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: ../bizifyme.php:173 ../bizifyme.php:177
+msgid "Sell your digital products using Bizify.me"
+msgstr "Vendez vos produits numériques avec Bizify.me"
+
+#: ../bizifyme.php:173
+msgid "Sell Media / Product"
+msgstr "Vends média / produit"
+
+#: ../bizifyme.php:212
+msgid "Getting started"
+msgstr "Commencer"
+
+#: ../bizifyme.php:213
+msgid "Settings"
+msgstr "Paramètres"
+
+#: ../bizifyme.php:218
+msgid "Every 15 Minutes"
+msgstr "Toutes les 15 Minutes"
+
+#: ../bizifyme.php:226
+msgid "Getting started with Bizify.me"
+msgstr "Commencer avec Bizify.me"
+
+#: ../bizifyme.php:236
+msgid "You do not have sufficient permission to access this page."
+msgstr ""
+"Vous n'avez pas les autorisations suffisantes pour accéder à cette page."
+
+#: ../bizifyme.php:267
+msgid "Settings saved."
+msgstr "Paramètres enregistrés."
+
+#: ../bizifyme.php:275
+msgid "Your Bizify.me account ID is missing."
+msgstr "Il manque votre identifiant Bizify.me"
+
+#~ msgid ""
+#~ "Import objects automatically from your account at Bizify.me and publish "
+#~ "them on your WordPress blog."
+#~ msgstr ""
+#~ "Importera objekt automatiskt från ditt konto på Bizify.me och publicera "
+#~ "dem på din WordPress-blogg."
+
+#~ msgid "The import takes place every 15 minutes."
+#~ msgstr "Importering sker var 15:e minut."
+
+#~ msgid "Bizify.me settings"
+#~ msgstr "Inställningar Bizify.me"
+
+#~ msgid "Selection of objects"
+#~ msgstr "Urval av objekt"
+
+#~ msgid "Import only new objects"
+#~ msgstr "Importera enbart nya objekt"
+
+#~ msgid "Import all available objects"
+#~ msgstr "Importera alla tillgängliga objekt"
+
+#~ msgid "Disable automatic import"
+#~ msgstr "Avaktivera automatisk importering"
+
+#~ msgid ""
+#~ "Your Bizify.me account ID is missing. You can find your Bizify.me account "
+#~ "ID by <A HREF=\"https://bizify.me/login/\" TARGET=\"_blank\">login in to "
+#~ "your Bizify.me account</A> and then go to <EM>Settings</EM> and click on "
+#~ "<EM>Automatic publishing</EM>."
+#~ msgstr ""
+#~ "Ditt Bizify.me konto-ID saknas. Du kan hitta ditt Bizify.me konto-ID "
+#~ "genom att <A HREF=\"https://bizify.me/login/\" TARGET=\"_blank\">logga in "
+#~ "på ditt Bizify.me konto</A> och sedan gå in på <EM>Inställningar</EM> och "
+#~ "klicka på <EM>Automatisk publicering</EM>."
+
+#~ msgid "Disable importing objects"
+#~ msgstr "Avaktivera importering av objekt"
+
+#~ msgid "Import no objects"
+#~ msgstr "Importera inga objekt"
+
+#~ msgid "Import new and old objects"
+#~ msgstr "Importera nya och äldre objekt"
+
+#~ msgid "Import everything"
+#~ msgstr "Importera alla objekt"
+
+#~ msgid "Import nothing"
+#~ msgstr "Importera inga objekt"
